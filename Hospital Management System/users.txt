@@ -1,0 +1,4 @@
+Patient>yasin>sifre>11>43.5>12.2>MALE>1995>0->true>
+Patient>d>d>1>2.0>3.0>MALE>4>5>true
+MP>x>x>11>true
+Administer>admin>admin

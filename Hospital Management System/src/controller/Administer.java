@@ -1,9 +1,9 @@
 package controller;
 
-public class Administer extends User{
+public class Administer extends User {
 
 	public Administer() {
-		
+		//
 	}
 
 }
